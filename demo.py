@@ -1,2 +1,2 @@
-print("b2 branch")
+print("This is b2 branch")
 
