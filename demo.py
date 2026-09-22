@@ -1,1 +1,1 @@
-print("master branch")
+print("b2 branch")
